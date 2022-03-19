@@ -1,0 +1,9 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+USER-04, Move Counter, Aneeq, https://github.com/UTMCSC207/assignment3-eclipse-is-garbage/pull/1, -Every method looks to be implemented correctly however we will have to make sure once the overall game features are done - Spelling mistakes (increment and decrement) please fix!
+DEV-05,Extreme Agents,Mahmoud,https://github.com/UTMCSC207/assignment3-eclipse-is-garbage/pull/2,"The OrderQueue class does not have an initializer, which means its <orders> attribute
+will be null all the time. Add an initializer for the class."
+DEV-02, Null Object Pattern,Aneeq,https://github.com/UTMCSC207/assignment3-eclipse-is-garbage/pull/5/,-Real Moves Counter initializer should not be public and should be protected/private and static since client should not be able to instantiate more than 1 object of this. NullObject class looks fine.
+USER-01,Custom Movement Behaviours,Faisal ,https://github.com/UTMCSC207/assignment3-eclipse-is-garbage/pull/5/,"Good use of using the strategy pattern by isolating each movement behaviour into its own class. Code looks clean, well organized and easy to follow. Goof job. "
+USER-04,Moves Counter,Faisal , https://github.com/UTMCSC207/assignment3-eclipse-is-garbage/pull/1,"Please make the instant attribute ""moves"" and the method ""incrementMoves"" static so that the AddMoves class can access them without creating a new ""MovesCounter"" instance. "
+USER-03,Mystery Box,Harshil,https://github.com/UTMCSC207/assignment3-eclipse-is-garbage/pull/6,Every method and class seems to be correct however I suggest you use a helper function in MysteryBox.java since the if else statements do very similar things.
+

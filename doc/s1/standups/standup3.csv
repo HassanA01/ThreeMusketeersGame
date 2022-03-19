@@ -1,0 +1,6 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Nov.27,1,3,Mahmoud,Changed the Singleton UML diagram to fit our changed code,Updating the Null Object UML to fit our changed code,First day of sprint 2,No
+Nov. 28,1,3,Aneeq,"Updated factory pattern uml, added another singleton pattern class which will be needed for challenge mode, worked on the factory and command pattern.",Implementing the singleton pattern for credits feature and working on finishing command and factory pattern,Sometime in the week of sprint 3, No
+Nov. 29,1,3,Harshil,I changed my code based a code review given by faisal since he uses my class in his implmentation. I also reviewed Faisal's code and lastly I changed promts so the user can choose to play challenge mode rather than just with the moves.,I will commit to adding a AddCredit feature to the mystery box,about 2 or 3 days ,No
+Nov 27 2021,1,3,Faisal ,"I implemented the ""AddMoves"" feature. ","I will implement the ""Skip a turn"" feature.",In a day. ,"Yes, I need access to the Move the current player wants to do to make sure the turn at the end doesn't change, but cannot figure out how to get access to it. "
+

@@ -1,0 +1,7 @@
+
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Nov. 24,1,1,Harshil,Implemented Singleton design pattern to count moves,"I will work on the prompts for the user to choose challenge mode, so MovesCounter can be used as intended",In about 2 days,No
+Nov. 25,1,1,Aneeq,Implemented Factory design pattern to create specific pieces of guards/musketeers and partially implemented command pattern,Will work towards finishing factory pattern and command pattern, should be done by Fri/Sat, Have to resolve combination of the strategy design pattern mixing with factory
+Nov.25,1,1,Mahmoud,Reviewed Harshil's singleton design pattern and made some changes to his code,Implementing the Null Object MovesCounter class,Nov.26,No
+25-Nov,1,1,Faisal ,Implement the visitor pattern for the mystery box feature ,"I will implement the ""Add Musketeer"" and ""Add Guard"" feature. ",In 2 days.,No
+

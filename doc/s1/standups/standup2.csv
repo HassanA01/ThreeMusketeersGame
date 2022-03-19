@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Nov.25,1,2,Aneeq,Worked on the command pattern and factory pattern,finishing up both of the patterns,Fri/Sat hopefully,"Have some questions about merging and branches, etc. once that is resolved it won't take me long to finish because I need Mehmood's updated code to implement my code correctly."
+Nov.26,1,2,Mahmoud,Implementing the Null Object class for MovesCounter,Adjusting the singleton UML diagram to fit changes made to code,Nov.27,No
+Nov.26,1,2,Harshil,I implemented the prompts to let the user choose if they want to play with a limited number of moves.,Next standup I will do a code review,1 day ,No
+Nov.26 2001,1,2,Faisal ,"I implemented the VisitorPattern classes and interfaces. I also added the ""Add Guard"" and ""Add Musketeer"" feature. ","I will implement the ""Add Moves"" special feature. ",In a day. ,No since the MovesCounter class is implemented. 
